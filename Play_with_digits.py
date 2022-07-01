@@ -11,3 +11,4 @@ s=0
 for i in a:
     s+=rev(i)
 print(s)
+        

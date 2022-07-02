@@ -13,4 +13,3 @@ while(n!=1):
         break
 if(flag==0):
     print("Ugly Number")
-    
